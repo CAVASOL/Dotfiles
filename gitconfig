@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = awyeon@gmail.com
+	name = Yeon Kim
